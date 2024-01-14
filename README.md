@@ -1,6 +1,8 @@
 # MultiViewXL 
 Siêu Add-in với chế độ Xem nhiều cửa sổ Excel cùng lúc
 
+[![Tổng tải xuống](https://img.shields.io/github/downloads/SanbiVN/MultiViewXL/total.svg)](/SanbiVN/MultiViewXL/releases/download/multi_view/MultiViewXL_v1.2.xlsm)
+
 # 
 ![multiviewxl_screen_001](https://github.com/SanbiVN/MultiViewXL/assets/58664571/ae933690-845d-490e-9fc7-90bea9d9a3ed)
 
